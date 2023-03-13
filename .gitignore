@@ -1,0 +1,11 @@
+#ignores the pycache folder
+/__pycache__
+
+#ignores the .csv files
+*.csv
+
+#ignores .env files
+.env
+
+#ignores the .vscode folder
+/.vscode
