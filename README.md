@@ -3,4 +3,4 @@
 #   Cleaning the data
 #   Moving it to a docker with postgresql database.
 
-#   File use in the process is from this link https://www.kaggle.com/datasets/vivovinco/league-of-legends-stats-s13
+#   File used in the process is from this link https://www.kaggle.com/datasets/vivovinco/league-of-legends-stats-s13
